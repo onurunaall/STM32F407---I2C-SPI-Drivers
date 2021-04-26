@@ -1,9 +1,3 @@
-/*
- * stm32f407xx_i2c_driver.c
- *
- *  Created on: 13 Eki 2020
- *      Author: pc
- */
 
 #include "stm32f407xx.h"
 #include <stdint.h>
